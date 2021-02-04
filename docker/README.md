@@ -1,7 +1,7 @@
-$ Docker-Compose build
+$ docker-compose build
 
 # コンテナの作成
-$ Docker-Compose up -d
+$ docker-compose up -d
 
 # 起動したコンテナにログイン
 $ docker exec -it xxxxxxxxx bash -p
